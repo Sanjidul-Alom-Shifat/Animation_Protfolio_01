@@ -1,8 +1,8 @@
-# Animation Portfolio_01  Website in React
+# Animation Portfolio_01 Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://ibb.co/M2wk8TY">
+<a href="https://ibb.co/M2wk8TY"><img src="https://i.ibb.co/3r6mfXD/localhost-3000.png" alt="localhost-3000" border="0"></a>
 
 Built using:
 
